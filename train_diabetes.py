@@ -45,8 +45,8 @@ import mlflow.sklearn
 import dvc.api
 
 data_url = dvc.api.get_url(
-    path='demo.txt',
-    repo='gdrive://13OCfhC6WS0IU4sV9UfB37pKrHdO6I2Ox',
+    path='data/demo.txt',
+    repo='https://github.com/chacha86/dvc-mlflow.git'
 )
 
 # Evaluate metrics
