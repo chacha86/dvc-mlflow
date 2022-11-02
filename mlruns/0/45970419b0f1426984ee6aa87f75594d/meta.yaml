@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/45970419b0f1426984ee6aa87f75594d/artifacts
+end_time: 1667113703184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45970419b0f1426984ee6aa87f75594d
+run_name: invincible-rat-734
+run_uuid: 45970419b0f1426984ee6aa87f75594d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667113700514
+status: 3
+tags: []
+user_id: spark
