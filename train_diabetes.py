@@ -46,7 +46,8 @@ import dvc.api
 
 data_url = dvc.api.get_url(
     path='data/demo.txt',
-    repo='https://github.com/chacha86/dvc-mlflow.git'
+    repo='https://github.com/chacha86/dvc-mlflow.git',
+    rev='fcf402263789f8fe757b0ab2e44685fc41445367'
 )
 
 # Evaluate metrics

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/98e6776d032c4e13a11a3c7e85408644/artifacts
+end_time: 1667378791062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98e6776d032c4e13a11a3c7e85408644
+run_name: bustling-elk-979
+run_uuid: 98e6776d032c4e13a11a3c7e85408644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667378789630
+status: 3
+tags: []
+user_id: spark
